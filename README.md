@@ -100,7 +100,7 @@ Content-Type: application/json
 
 **1** Jane_Corro — MorlyG@example.com
 
-**2** Jane Corro — Morly Granadoexample.com
+**2** Jane Corro — Morly Granado@example.com
 
 **To run the seed script:** 
 ```
